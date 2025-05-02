@@ -13,3 +13,4 @@ test
 
 final commit
 
+remove branch test
